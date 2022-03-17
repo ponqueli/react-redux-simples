@@ -27,21 +27,21 @@
 
 .Card.Blue .Header {
   color: #fff;
-  background-color: #2196f3;
+  background-color: #1565c0;
 }
 .Card.Blue .Content {
   background-color: #2196f3;
 }
 .Card.Green .Header {
   color: #fff;
-  background-color: #4caf50;
+  background-color: #2e7e32;
 }
 .Card.Green .Content {
   background-color: #4caf50;
 }
 .Card.Purple .Header {
   color: #fff;
-  background-color: #9c27b0;
+  background-color: #9b27b0cb;
 }
 .Card.Purple .Content {
   background-color: #9c27b0;
