@@ -1,6 +1,6 @@
 import "./Intervalo.css";
 import Card from "./Card";
-import React, { useState } from "react";
+import React from "react";
 import { connect } from "react-redux";
 
 const Intervalo = (props) => {
