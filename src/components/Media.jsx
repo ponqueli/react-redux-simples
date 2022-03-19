@@ -5,7 +5,7 @@ import { connect } from "react-redux"; //does the connection between component a
 
 const Media = (props) => {
   const { min, max } = props;
-  console.log(props)
+  console.log(props);
   return (
     <Card title="Média de Números" green>
       <div className="Media">
@@ -23,7 +23,7 @@ function mapStateToProps(state) {
   return {
     min: state.numeros.min,
     max: state.numeros.max,
-    nomes: state.nomes
+    nomes: state.nomes,
   };
 }
 
